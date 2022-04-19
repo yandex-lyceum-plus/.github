@@ -2,7 +2,7 @@
 
 ### Немного о нас
 
-📌 Участники специализации [Django](https://academy.yandex.ru/plusplus/django) Лицея ++ Академии Яндекса
+📌 Участники специализации [Django](//academy.yandex.ru/plusplus/django) [Лицея](//academy.yandex.ru/plusplus) [++](//znanija.site/algebra/21969568.html) [Академии](//academy.yandex.ru) [Яндекса](//yandex.ru)
 
 ### Наша команда:
 
@@ -12,4 +12,4 @@
 | Малахов Виктор | [@Varman056](//t.me/Varman056) |
 | Шишкин Алексей | [@djazzyyy](//t.me/djazzyyy) |
 
-![](https://komarev.com/ghpvc/?username=yandex-lyceum-plus)
+![](//komarev.com/ghpvc/?username=yandex-lyceum-plus)
