@@ -11,3 +11,5 @@
 | Константинов Михаил | [@mikemka](//t.me/mikemka) |
 | Малахов Виктор | [@Varman056](//t.me/Varman056) |
 | Шишкин Алексей | [@djazzyyy](//t.me/djazzyyy) |
+
+![](https://komarev.com/ghpvc/?username=yandex-lyceum-plus)
