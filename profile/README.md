@@ -2,7 +2,7 @@
 
 ### Немного о нас
 
-📌 Участники специализации [Django](//academy.yandex.ru/plusplus/django) [Лицея](//academy.yandex.ru/plusplus) [++](//znanija.site/algebra/21969568.html) [Академии](//academy.yandex.ru) [Яндекса](//yandex.ru)
+📌 Участники специализации [Django](//www.djangoproject.com) [Лицея](//academy.yandex.ru/plusplus) [++](//znanija.site/algebra/21969568.html) [Академии](//academy.yandex.ru) [Яндекса](//yandex.ru)
 
 ### Наша команда:
 
